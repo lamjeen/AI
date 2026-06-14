@@ -10,7 +10,7 @@
 
 | Item | Keterangan |
 |------|------------|
-| Mata Kuliah | Machine Learning |
+| Mata Kuliah | Artificial Intelligence |
 | Judul Proyek | Heart Attack Prediction |
 | Kelompok | Webabiq |
 | Model Utama | XGBoost (ROC-AUC 0.8182) |
