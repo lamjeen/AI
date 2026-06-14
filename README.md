@@ -15,7 +15,7 @@
 | Kelompok | Webabiq |
 | Model Utama | XGBoost (ROC-AUC 0.8182) |
 | Platform | Streamlit Web App |
-| Dosen Pengampu | Muhammad Ilham Ashiddiq Tresnawan, S.T., M.Sc |
+| Dosen Pengampu | Andik Yulianto, S.T., M.T |
 
 ---
 
